@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishikc.com/sitemap-index.xml
+Host: https://rishikc.com
