@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Rishi's Blog - rishikc.com]]></title><description><![CDATA[I write code that runs on your browsers, phones, and desktops. Experienced in building websites, mobile applications, DevSecOps tools, and more. ]]></description><link>https://rishikc.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 06 Jul 2023 16:07:42 GMT</lastBuildDate><item><title><![CDATA[Will Artificial Intelligence fully replace Web Developers?]]></title><description><![CDATA[As the research and development of artificial intelligence keep picking up pace every day, businesses have started considering or already…]]></description><link>https://rishikc.com/articles/will-artificial-intelligence-replace-web-developers/</link><guid isPermaLink="false">https://rishikc.com/articles/will-artificial-intelligence-replace-web-developers/</guid><pubDate>Sun, 07 May 2023 00:00:00 GMT</pubDate><content:encoded>
+As the research and development of artificial intelligence keep picking up pace every day, businesses have started considering or already incorporated AI-powered solutions to boost efficiency and cut costs. In recent days, we have seen people talk about how AI might replace a massive chunk of the workforce or take over processes that used to rely on individuals in that part of the trade. There&apos;s a mixed bag of people who are worried about it, people who say everyone should be concerned, and then there are people who know that no matter how much it evolves, it can never replace people.
+
+I am one of those people. I believe web development has no substitute for human expertise, just like many other fields. AI tools that have been flooding the internet are like a vehicle. They can help us get to various ends faster and with less effort. However, when it comes to web development, it&apos;s like climbing a mountain, where human expertise is necessary to navigate the tricky terrain and reach the summit successfully.
+
+## Limitations of artificial intelligence in web development
+
+There&apos;s no doubt that artificial intelligence can be super helpful in web development, especially in generating snippets for part of code, if not a full-blown project (at least at the time of writing this article), and testing.
+
+&gt; **Update:** When I revised this article, we already have a [Python project on Github](https://github.com/smol-ai/developer) that can help build Chrome extensions and more. We provide a prompt with as many details as it needs, and viola. At least, that&apos;s how it looks at the first glance. If we dive deeper into its usage, we&apos;ll see it needs a lot of technical information to build a working solution.
+
+There are certain things that only we can bring to the table apart from technical knowledge and know-how. Things like creativity, intuition, and emotional intelligence. All of these are required when building products that people like to use. For example, when designing a website, we ensure it looks good and is easy to use while also considering what the users want and how they&apos;ll interact with it. User Experience design teams put in a lot of detailed work building personas, understanding user sentiments, talking to potential users, and so much more.
+
+And when it comes to creating content, artificial intelligence can only go so far - capturing a human writer&apos;s unique voice and style is tricky. Would an AI put a question like this in the middle of the paragraph? At least right now. I guess. (maybe in the future?). We put forward little things like these that are part of our thought processes - an animation we like or putting forward our brand&apos;s sentiments in words or photographs. Or, in simpler terms, intuition.
+
+## Importance of human intuition in creating websites
+
+Human empathy and intuition are essential for creating a website that genuinely resonates with its intended audience. While AI can provide insights based on data analysis or scour the internet and suggest what other people have done or have said what needs to be done. But to surpass people, it needs to be more capable of fully grasping the emotions and motivations behind user behavior. It is critical to apprehend the audience&apos;s needs and preferences; and where those overlap with what we can provide. More importantly, how that overlap can be used in a unique way that aligns with our vision.
+
+Additionally, web development is a collaborative effort that demands communication and teamwork, which are skills that machines cannot replicate. Brainstorming ideas, discussing solutions, and providing feedback are critical to creating a successful website. Human emotions and market sentiments play a massive role in building any tech. While AI can aid in some of these tasks, effective collaboration and communication with other humans is something only humans can provide. An LLM can suggest to someone what CSS to use by comparing it to the records it has seen before on how to finally center a div. Still, it doesn&apos;t know if the div needs to be centered or looks centered with that piece of code it suggested.
+
+&lt;hr /&gt;
+
+In conclusion, while artificial intelligence can be helpful in specific areas of web development, it will always require a human touch. Our creativity, intuition, and emotional intelligence are irreplaceable in designing websites that genuinely connect with their target audiences. Therefore, human involvement will remain an indispensable component of web development for the foreseeable future. All artificial intelligence would take away are all the tedious parts of our workflow so we can focus on things that matter. And also spend time doing what it fails to do correctly because, at the end of the day, it is a piece of software written by people.
+</content:encoded></item><item><title><![CDATA[Grays and Whites]]></title><description><![CDATA[Sometimes we try to define something and figure out we don’t need to. Or we slap the closest label on it and move on. We don’t want to…]]></description><link>https://rishikc.com/articles/grays-and-whites/</link><guid isPermaLink="false">https://rishikc.com/articles/grays-and-whites/</guid><pubDate>Tue, 18 Oct 2022 22:12:03 GMT</pubDate><content:encoded>
+Sometimes we try to define something and figure out we don&apos;t need to. Or we slap the closest label on it and move on. We don&apos;t want to bother ourselves too much with the grays because the grays demand energy. Nevertheless, some situations need that we describe certain things.
+
+&lt;hr /&gt;
+
+## Sentiments
+
+I&apos;m yet to fully understand the concept of a job in a traditional sense. I have known more than a few people who have had what we call dream jobs, and I guess there are a handful of people and organizations we would never say no to. I used to think I had one too. Until that opportunity came knocking at my door. And then I rejected it.
+
+We don&apos;t need to sit down and wonder what our job means to us unless we are leaning toward making a choice. It is easier, and perhaps more common than we realize, to become unwillingly comfortable with something. When it comes to our jobs, it is unavoidable because it helps in sustenance. So most of the time, we go along until it exemplifies itself as a choice.
+
+In my fifth year of holding a professional job as a software engineer, if I had to define it, I would say it is something I do for a few hours, five days a week, to keep the finances flowing. So that I have a place to stay, food to eat, and tend to my whims. And then I do whatever I want to do every day.
+
+&lt;hr /&gt;
+
+## Shades
+
+When something holds a significant value in our lives - something that defines the turns in our journey - we spend most of our time labeling things. Returning to my career example, we may ask ourselves, &quot;Is it something I voluntarily want to do because I love what I&apos;m doing?&quot;. Maybe listen to someone tell us that it won&apos;t feel like a job if we love it. Many other notions have also influenced how we define ideal jobs as a society.
+
+So if we can explain this crucial part of our &quot;five-times-a-week&quot;-day life, then we know how much of our time and energy needs to go there or if something is worth it. In that way, we can agree that definitions are helpful.
+
+&lt;hr /&gt;
+
+## Shackles
+
+There are also things we are bound to and can&apos;t just move on or ignore. In the context of jobs, it&apos;s about money. Money has become such an essential tool that very few ways of living would free us from our habitual and inherited dependency. Moreover, not everyone will renounce the world and live like a hermit in some forest. It is one thing to romanticize about and a whole other endeavor to leave everything behind just like that.
+
+I once remember reading about someone who lived in the woods for seven or more years. They also found someone during that time, married, and continued the lifestyle with their partner. I remember reading about how they made things out of animal hides and whatever they could find in the forest. So, it is not outside the realm of possibilities. However, they also sold the things they made or produced to earn money because there are still expenses - like an internet connection. Nevertheless, I think it is commendable, and more and more people are moving towards a similar lifestyle in recent years for a multitude of reasons.
+
+&gt; On a side note, [Ikigai by Héctor García](https://www.amazon.com/dp/178633089X/ref=cm_sw_em_r_mt_dp_XACXBK63QVVW8QVM1B5J) is a book that has been wildly popular in recent time and talks about how you can find something you can enjoy doing. At the same time, you earn money, find your purpose, realize happiness, and all that good stuff. It puts forward a pretty logical system that I feel is, very obviously, a definition-heavy process. If you haven&apos;t read the book, it is worth a shot.
+
+&lt;hr /&gt;
+
+## Getting comfortable with Grays
+
+Life has its share of things way more complicated and exciting than a mundane job. But what I have learned so far is defining things goes a long way toward building a life filled with love, happiness, and, most importantly, peace. It attempts to clear any uncertainty or fear of regret; and provides a foundation we can use to make a decision. Defining something doesn&apos;t mean it instantly becomes all black and white. Not that it needs to be said, but it probably wouldn&apos;t be wise to label something only because it looks gray, and we don&apos;t want gray.
+
+In those ways, our lives can be colorful and gray simultaneously. None of us would ever really be fond of the gray or of racking our brains, even wrecking it at times, trying to put it into black and white. So I believe the best we can do is define the grays and whites.
+</content:encoded></item><item><title><![CDATA[Trains and the Buddhist principle of impermanence]]></title><description><![CDATA[Imagine you are traveling on a train through the rural parts of India. Apart from the fields and beautiful views for the most part, the…]]></description><link>https://rishikc.com/articles/trains-and-buddhist-principle-of-impermanence/</link><guid isPermaLink="false">https://rishikc.com/articles/trains-and-buddhist-principle-of-impermanence/</guid><pubDate>Fri, 16 Jul 2021 22:12:03 GMT</pubDate><content:encoded>
+Imagine you are traveling on a train through the rural parts of India. Apart from the fields and beautiful views for the most part, the following two common sights are that of shacks and railway crossings. As we pass an intersection, I either mindlessly stare outside or look at everything around me, including the faces we are passing by. Ones that we may never see again. Even as a person standing outside this marvelous mode of transport, thinking about trains and how they come and go so quickly is just as fascinating.
+
+The two points of view - that of a passenger and a spectator - remind me of the Buddhist principle of impermanence, where everything in life is constantly changing, and nothing is permanent. Even something as grand and impressive as a train is also subject to this. Despite this, trains are crucial in connecting people and places, providing transportation essential to our society.
+
+Whenever I&apos;ve encountered people that are difficult to deal with, I always remind myself of this. I&apos;m on my train, on this beautiful journey, with no idea what stops I will make. And this person is like one of those I see on certain intersections or fields I cross. The moment my train crosses this place, they are in the past, and I&apos;m taking in other sights. But this isn&apos;t just about reassurance when encountering people who probably have underlying, fixable issues.
+
+I&apos;ve always thought that it is essential to cherish each moment and make the most of our time, knowing that everything is temporary and subject to change. That means the best thing to do when we are around good people is to make the best of those beats. As the saying goes,
+
+&gt; &quot;This too shall pass.&quot;
+
+We often forget that the memories, relationships, and immaterial things we have taken time to build; stay with us longer and sometimes for our entire lifetime. So whatever good is in front of us, we should relish those moments and cherish the people in them.
+</content:encoded></item><item><title><![CDATA[Automate lighthouse audits for your Progressive Web App]]></title><description><![CDATA[We all know how valuable and helpful the insights are from lighthouse audits when we’re developing our web applications. But the way most of…]]></description><link>https://rishikc.com/articles/automate-lighthouse-audits-progressive-web-app/</link><guid isPermaLink="false">https://rishikc.com/articles/automate-lighthouse-audits-progressive-web-app/</guid><pubDate>Sat, 29 Jun 2019 22:12:03 GMT</pubDate><content:encoded>
+We all know how valuable and helpful the insights are from lighthouse audits when we’re developing our web applications. But the way most of us check is manually through Chrome dev tools or the lighthouse extension, which in my opinion, is not very productive.
+
+For those of us who don’t know, there are mainly four ways of auditing our web application with lighthouse :
+
+- via Chrome dev tools
+
+- Command-line
+
+- NPM module
+  ( which we are going to use in a while )
+
+- [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+&lt;hr /&gt;
+
+## Dependencies
+
+To programmatically perform lighthouse audits, we can use the [lighthouse npm package](https://www.npmjs.com/package/lighthouse), [mocha](https://mochajs.org/), and [chai](https://www.chaijs.com) for writing our tests and [chrome-launcher](https://www.npmjs.com/package/chrome-launcher) for running our lighthouse tests.
+
+First, let&apos;s install the above packages as dev dependencies in our project :
+
+```bash
+npm install lighthouse chrome-launcher chai mocha --save-dev
+```
+
+## Set up lighthouse
+
+Now, let’s create a file named `lighthouse.tests.js` in our `tests` directory. We’ll run our lighthouse audits through this file. Here, we’ll import the lighthouse module and chrome launcher that helps us to open our webpage from the local development server and run the audits to test against a minimum threshold that we want our lighthouse scores to be.
+
+While this might sound a lot to do, it isn’t much. Here’s what it looks like on actual code :
+
+```js
+const lighthouse = require(&quot;lighthouse&quot;);
+const chromeLauncher = require(&quot;chrome-launcher&quot;);
+
+function launchChromeAndRunLighthouse(url, opts, conf = null) {
+  return chromeLauncher
+    .launch({ chromeFlags: opts.chromeFlags })
+    .then((chrome) =&gt; {
+      opts.port = chrome.port;
+      return lighthouse(url, opts, conf).then((res) =&gt;
+        chrome.kill().then(() =&gt; res.lhr)
+      );
+    });
+}
+```
+
+And it is as simple as that. We launch the chrome browser instance with the `chromeLauncher.launch` method and then run lighthouse tests with the site URL and configuration for our audits. After that, we close/kill the chrome instance and return the results. And this is how it looks like when in use :
+
+```js
+launchChromeAndRunLighthouse(testUrl, opts, config).then((res) =&gt; {
+  // Results are available in `res`
+});
+```
+
+## Write the tests
+
+So now, we can put this call inside our `before` hook for the tests and then have tests for each metric, something like this :
+
+```js
+describe(&quot;Lighthouse Audits&quot;, function () {
+  // Timeout doesn&apos;t need to be same. It can be more or less depending on your project.
+  this.timeout(50000);
+  let results;
+  before(&quot;run test&quot;, (done) =&gt; {
+    launchChromeAndRunLighthouse(testUrl, opts, config).then((res) =&gt; {
+      // Extract the results you need for your assertions.
+      done();
+    });
+  });
+  it(&quot;performance test&quot;, (done) =&gt; {
+    // test your performance score against the threshold
+    done();
+  });
+  // Some more tests..
+});
+```
+
+Still looks weird? Don’t worry! Check out this repository for an example setup of [lighthouse tests with mocha](https://github.com/rishichawda/lighthouse-mocha-example) and try that out with your web application!
+
+This method can be applied to automate the tests in continuous integration/deployment environments so that you don’t have to worry about manually auditing your web application and checking whether it meets the minimum satisfactory levels.
+
+&lt;hr /&gt;
+
+So there you go. That’s all we need to do for automating lighthouse audits for our progressive web applications to make sure they are always worthy of the internet and user’s data packets!
+
+![Atleast the Son of Odin is happy about his light house tests.](https://i.imgur.com/bTB3UGn.gif)
+
+&lt;br /&gt;
+
+_Did you like this article? Or did I miss something? Is there something that you have that can make it even better?_
+_Please leave a comment below, or you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy hacking! Cheers! 🎉
+</content:encoded></item><item><title><![CDATA[Managing React application state - without using Redux!]]></title><description><![CDATA[Disclaimer: This solution is best suited for small scale projects, and its main motive is to explore the new APIs React provides rather than…]]></description><link>https://rishikc.com/articles/managing-react-application-state-without-redux/</link><guid isPermaLink="false">https://rishikc.com/articles/managing-react-application-state-without-redux/</guid><pubDate>Sun, 19 May 2019 22:12:03 GMT</pubDate><content:encoded>
+**_Disclaimer_**_: This solution is best suited for small scale projects, and its main motive is to explore the new APIs React provides rather than trying to replace any traditional solutions._
+
+&lt;hr /&gt;
+
+So when was the last time you tried managing application state, without Redux? As far as I can remember, for me, it was probably during the time I had started learning and playing around with React. Although I had known about Redux at the time when I did try not using it, I just wanted to do it because I didn’t want to add three dependencies to my react application just for managing a tiny application state. Of course, when we talk about using redux, we are also going to use `react-redux` and middleware too!
+
+I did it in two different ways ( which most of us, might have tried at some point as well )
+
+- Using `localStorage` and custom listeners.
+
+- Using the Context API.
+
+&lt;hr /&gt;
+
+**_But_** in this article, we’re not going to discuss that. We’re going to see another way of managing the state, which is relatively new — using **_Hooks_**.
+
+So, let&apos;s set up a react project and add a root component, like so :
+
+`gist:rishichawda/0a35280d00a7320ddc29cb52a1735ab9#App.js`
+
+And our `ChildComponent.js` as,
+
+`gist:rishichawda/de65a5b99d64bdb875dd2b7ae8a40ec4#ChildComponent.js`
+
+First, let us break down the complete flow and decide what we need :
+
+- A state, _of course_
+
+- Update our state.
+
+- Sync the data between the state and our components wherever required.
+
+- Do all of this while keeping the code clean. ( Very important )
+
+## Set up store/state
+
+Let’s set up our state first. For this, I’m going to use the `useReducer` hook. For those who are not familiar with the `useReducer` hook — it is similar to the basic `useState` hook but more suited for this case as it provides a `dispatch` method, the previous state while computing and updating the state. It provides us a way that is similar to Redux’s reducer and action flow. Let’s set up our `useGlobalState` hook, which helps us initialize our state and provide us a dispatch for updating it as well.
+
+So our `redux.js` looks like this :
+
+`gist:rishichawda/d3ba7b0e4ae70052bf7ce4693fe3822e#redux.js`
+
+So what’s going on here? Our custom hook here takes two arguments — `initialState` for setting an initial state to our app and `reducer` is our reducer function for updating state depending on the actions.
+
+Our `reducer.js` might look like this :
+
+`gist:rishichawda/46865557e94f06f3f9dfcf845cfb6b37#reducer.js`
+
+## Use reducer and global state
+
+With those two arguments, we can initialize our reducer and state as :
+
+```javascript
+const [state, dispatch] = React.useReducer(reducer, initialState);
+```
+
+Since our `initialState` might, in some cases, require some computation and may not be just a static value — we are going to use the third argument of `useReducer` to initialize our state from a function just in case we need to. So now we can initialize our state in two ways :
+
+```javascript
+const globalState = useGlobalState(intialState, reducer);
+
+// OR
+
+const globalState = useGlobalState(() =&gt; {
+  // Do stuff here.
+  return state;
+}, reducer);
+```
+
+But where do we initialize our state? Let’s add this to our `App.js` file and use the classic example of making a simple counter.
+
+`gist:rishichawda/853c751bb5c27eee52b0f504c39ac7e2#App.js`
+
+This gives us something like this :
+
+![The globalstate hook in action inside our react application](./demo-with-globalstate-redux-hook.gif)
+
+But still, we can’t use the state inside our `ChildComponent` since it has no idea of this state. We’re going to use the `createContext` API for that.
+
+Let’s update our `redux.js` to give us a way to pass the state to our child(ren) component(s), like so : :
+
+`gist:rishichawda/73a4ca3292565b3cd96c7b860ad69c85#redux.js`
+
+I guess you can see where this is going. We are going to use the Provider component in our root `App.js` and wrap our component with it.
+
+Additionally, we’ll pass an initial state as the value for our ‘provider.’ This makes the values available in the DOM tree. But then you might wonder — we need to wrap all our children who are going to use the state with `context.Consumer`, don’t we? Well, no.
+
+Here’s were our `React.useContext` hook comes into play along with a little HOC trick. And we’re going to name it `connect`, so it looks similar to redux! Also, it can be easier to understand if we can visualize it in the ‘redux way.’ But first, let’s check if our current setup works.
+
+Update the `App.js` file to this :
+
+`gist:rishichawda/d72f29069327409c98f37760da1d36f1#App.js`
+
+And our `ChildComponent.js` like this :
+
+`gist:rishichawda/aa53ee31f2e967a2adb4d9c401cddc16#ChildComponent.js`
+
+So what does `useContext` hook do? Well, it’s similar to using `context.Consumer` tag which allowed us to access context value and subscribe to its changes. With `useContext` hook, we no longer use the `context.Consumer` in our component. We pass the context object to it, which then returns the value from the current context. Whenever the context data changes, the component is re-rendered with the new values.
+
+Let’s see if this works.
+
+![The globalstate hook with provider inside our react application](./demo-with-globalstate-redux-hook-provider.gif)
+
+Great! But there’s one thing. Now we need to call `useContext` in every component! Let’s get rid of this. We’re going to write a small HOC which exposes an API similar to the `connect` HOC from `react-redux`.
+
+Now, our `redux.js` should look like this :
+
+`gist:rishichawda/c1d8e05b553a518629346d73140f8a75#redux.js`
+
+&gt; Note: As you can see, we are just spreading the props over the component here. The ideal way is to use the `hoist-non-react-statics` package to copy all non-react static methods to the new component. Please use that way since it is better than just passing the props. A complete explanation is in the [React Documentation for Higher-Order Components](https://reactjs.org/docs/higher-order-components.html#static-methods-must-be-copied-over).
+
+The `connect` HOC here takes our component and uses the context to get all the props that are required by the component as defined in the `mapStateToProps` function in the `connect` call. We can update our `ChildComponent.js` now, to something like this :
+
+`gist:rishichawda/e67e17c52c94505a664a18ccb8005537#ChildComponent.js`
+
+Let&apos;s check if this works.
+
+![The globalstate hook with connect HOC inside our react application](./demo-with-connect-redux-hoc.gif)
+
+In case you’re wondering, you can have different counters for both of them, and it’ll work just fine! You need to initialize the state with both the counters, dispatch actions from their respective buttons, and use the respective values from the state to display. Like so :
+
+```jsx
+// In App.js, initialize counters like this
+const globalState = useGlobalState({ count: 0, anothercount: 1 }, reducer);
+
+/**
+ * In ChildComponent.js, update the `mapState` and `mapDispatch` methods
+ * to get and update `anothercount` value from state.
+ */
+const mapState = ({ anothercount }) =&gt; ({ // Get the `anothercount` value from state.
+ count: anothercount,
+});
+
+const mapDispatch = (dispatch) =&gt; ({
+ // Update the dispatch to trigger `countincrement` action.
+ updateCounter: () =&gt; dispatch({ type: &apos;countincrement&apos; })
+});
+
+export default connect(mapState, mapDispatch)(ChildComponent);
+
+/**
+ * Finally, update our reducer to handle `countincrement` action,
+ * which updates the `anothercount` value in our state.
+ */
+export default (state, action) =&gt; {
+
+ switch (action.type) {
+ case &apos;increment&apos;:
+ return {
+ ...state,
+ count: state.count + 1,
+ };
+ case &apos;countincrement&apos;:
+ return {
+ ...state,
+ anothercount: state.anothercount + 1,
+ };
+ default:
+ return state;
+ }
+}
+
+```
+
+Oh, and one more thing! Don’t forget to wrap your **_components_** with `React.memo` if they’re not connected to the state. This prevents unnecessary re-renders when the state updates.
+
+And we’re done implementing a small redux-like application state management in our react application! All within just 40 lines of code! ✨
+
+You can check out the complete example in [this Github repository](https://github.com/rishichawda/globalstate-hook-example). Please leave a star on the repository or comment here if you liked this article!
+
+&lt;hr /&gt;
+
+_If you have any suggestions or ideas, you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy hacking! Cheers! 🎉
+</content:encoded></item><item><title><![CDATA[Architecting React Applications - Part II]]></title><description><![CDATA[This article is a continuation of my previous article - Architecting React Applications - where I wrote about a simple way to architect…]]></description><link>https://rishikc.com/articles/architecting-react-applications-redux-store-services-and-sagas/</link><guid isPermaLink="false">https://rishikc.com/articles/architecting-react-applications-redux-store-services-and-sagas/</guid><pubDate>Sat, 11 May 2019 22:12:03 GMT</pubDate><content:encoded>
+This article is a continuation of my previous article - [Architecting React Applications](/articles/architecting-react-applications/) - where I wrote about a simple way to architect almost any React application into a modular structure. In this article, I am going to write about a _relatively_ complex codebase with things such as application state management.
+
+We&apos;ll build upon the same directory structure so that we can also determine whether our previously prepared codebase scales well in more complex scenarios rather than just having a few pages or components. We&apos;ll follow the same steps, .i.e, take a look at the directory and then briefly go through the parts one by one.
+
+&lt;hr /&gt;
+
+Let&apos;s add some of the redux&apos;s _magic_ to our application to manage its global state. ✨
+
+But wait, we need to get the structure ready first. So, here we go --
+
+![The source directory structure for our react application](./directory-structure.png)
+
+This structure might seem familiar to you, and this one of the most popular ways among the developers and is pretty intuitive. All the actions go into a directory called `actions`, reducers in their directory, and the same for middlewares. One thing that is not very common here is a `root.reducer` and `root.store` file at the `src` root. Now, many developers I have known to prefer keeping the `root.reducer` ( sometimes stored as an `index.js` ) inside the `reducers` directory because it is then &apos;closer&apos; to all the reducers. I agree it might make much sense to keep it that way, but I prefer keeping my `root.reducer` and `root.store` in the root of my `src`. And here&apos;s why :
+
+- `reducers` directory is strictly kept for storing individual reducers. The `index.js` inside it is used as the main entry point to export all the reducers. ☝️
+
+- `root.reducer` and `root.store` seem _closer_ ( or hooked? ) rather than all the reducers closer to the `root.reducer` -- since `root.reducer` here is being used to configure the reducer before we hook it up with store ( which is done inside `root.store` later ).
+
+So it pretty much makes sense -- to keep all the reducers separately in a place and then just imported through a single entry point to our `root.reducer`, which stays close to our `root.store`. The simple reason is it is easier to find at the root of `src` directory than inside another nested directory. That is one of the reasons why it is named `root.reducer` and not `index.js`.
+
+Similarly, our `actions` directory contains all our `actions`, an `action.types` file for all the action types _( we can even have a directory named `shared` in the `src` and put the type file there, I used to do it when I had started using redux )_ and the main entry file which exports all the actions. Each file inside our `actions` directory can contain a set of actions that are related to a single aspect of our application, for example, a user, or a user interface state or perhaps some data synchronization. The same goes for the `middlewares` directory, which holds our custom middlewares, if any, and a single entry point which exports all of them.
+
+&gt; Note that all three new directories added to our previous structure have the main entry point, which exports all the individual parts -- mainly because it makes the imports cleaner and also makes it look modular.
+
+So, we&apos;re done with the basic stuff that could be added to any react application which implements an application state ( A little secret -- you can do it without using redux too! ). 🤓
+
+&lt;hr /&gt;
+
+## Let&apos;s add some more stuff.
+
+Let&apos;s add more volume to the codebase. The first thing that comes to my mind is sagas -- mainly because any real-world application with a considerable codebase usually has asynchronous actions going on in parallel. Let&apos;s assume we need [redux-saga](https://redux-saga.js.org/) for our application, and we can&apos;t do away with thunks!
+
+Oh wait, let&apos;s have some services too -- for fun! 💥
+
+And while we&apos;re at it -- let&apos;s not forget about making our state management which we had set up earlier a little better by adding selectors to our application -- which is a must by the way if we have many things going on inside our application store!
+
+Did I add too much? Well, to cover all of it, without implying that your application can not have all of it, which can pretty much if required.
+
+Okay, let&apos;s follow the same pattern and make the directories first. I&apos;ll go ahead and create directories for them, like so :
+
+![The source directory structure for our react application with redux setup](./directory-structure-2.png)
+
+This structure might look pretty much self-explanatory, and you already have an idea of how we might structure them internally. All our sagas go inside the `sagas` directory, with our root saga also inside it _( you can name it whatever you want -- `root.saga` or `index.js` )_ just like our entry points to reducers and actions inside their directories.
+
+But you might ask..
+
+## Why not keep it outside like our `root.reducer` and `root.store`? 🤔
+
+Well, here&apos;s a pretty simple explanation. When we discussed about the reducers and actions, we kept the entry point of the directory as something we&apos;re directly using in our application -- entry point in `reducers` directory for importing all reducers to `root.reducer` and entry point in `actions` directory for importing them in various parts of our react application. Similarly, for our `root.saga` or `index.js` inside the `sagas` directory, which is going to be used in our `root.store` while initialization, makes more sense to be seen as an entry/access point and not anything more complicated than that. Usually, it&apos;ll contain our root saga, which spawns/calls/forks/ invoke other sagas accordingly.
+
+The same goes for selectors and services. Both contain an entry point that exports all the selectors and service modules from the directory. Keep in mind that it is there to provide us a cleaner import and better view of the structure!
+
+&lt;hr /&gt;
+
+And there we go! We have pretty much completed setting up our react application to start with a complicated project -- but with a relatively simple structure which anyone can get used to and something that scales well too! In my experience, a similar structure has fared well in scaling up along with regular and extensive application-wide changes while keeping our productivity high.
+
+&lt;br /&gt;
+
+_Did you like this article? Or did I miss something? Is there something that you have that we can add to this article -- that can make it even better?_
+
+_Please leave a comment below, or you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy hacking! Cheers! 🎉
+
+&lt;hr /&gt;
+</content:encoded></item><item><title><![CDATA[Architecting React Applications]]></title><description><![CDATA[React has always been popular for its short learning curve and easy to use APIs. But if you have been working with this popular javascript…]]></description><link>https://rishikc.com/articles/architecting-react-applications/</link><guid isPermaLink="false">https://rishikc.com/articles/architecting-react-applications/</guid><pubDate>Thu, 11 Apr 2019 22:12:03 GMT</pubDate><content:encoded>
+React has always been popular for its short learning curve and easy to use APIs. But if you have been working with this [popular javascript library](https://reactjs.org/) for a while now, you might agree with me on this one as well -- If you don&apos;t pay attention to it&apos;s structure it will soon become an unmaintainable mess.
+
+Before joining my first job, I had some experience as a freelancer but didn&apos;t know much about best practices and architecture apart from what I had come across either online or while development. And even as a freelancer I didn&apos;t have experience with such large scale applications that we had to work with later in the job. This is when I started paying more attention to architecture. In the start, things used to get a little confusing sometimes - mostly because I was a bit more conscious about my code than before - which was obvious as I was part of a team now and not a solo freelancer.
+
+So I started looking through GitHub, online articles, papers and books. And as I kept working with React more and more on a large scale I had realised that
+
+&gt; The key to a robust, scalable and easy to maintain React application is architecture.
+
+This applies to any application or software but with React, abstraction was a bit more difficult than other libraries / frameworks. This was until [Hooks were introduced](https://reactjs.org/docs/hooks-intro.html) - but we will keep it out of the context for now as it is still fairly new and most of the applications are still built with older versions of React. Also, there are a lot of improvements to be made; lot of do&apos;s and dont&apos;s to be discovered with its usage.
+
+As of now, I think the principle that I follow for structuring React applications will work fairly well with Hooks too! Since the focus was on a scalable web application architecture - not just React.
+
+&lt;hr /&gt;
+
+Let&apos;s quickly take a look at the setup and then I&apos;ll walk you through it and try to explain why it is structured that way. So the root of the project looks something like this :
+
+![The top level directory structure for the react project](./base-struct.png)
+
+And the `src` directory ( which will contain all the source code for our application, ofcourse ) is structured like this :
+
+![The source directory structure for our react application](./base-struct-2.png)
+
+The first thing you might notice, and wonder maybe - and if you don&apos;t, I&apos;d recommend taking a look again - that we have two directories named `config` in our project. No, this isn&apos;t by mistake! It has a ( extremely ) simple reason.
+
+&lt;hr /&gt;
+
+## Two config directories for a single web application?! Why though??
+
+The `config` directory at the root contains all the configuration files related to build - like our application&apos;s webpack config or any other bundler that we might use, environment files and other configs.
+
+![The webpack configuration in the config directory used to build the react application](./config-snap.png)
+
+You might also notice that it is nested and that the webpack configuration lives in its own directory. This makes the configurations more organised and easier to manage. This might seem trivial but when the application starts growing , and with that the build process might also get complex - which then demands a well organised place of its own. Also, this brings a peace of mind while working with it -- a large mess of configuration files is the last thing you might want while deploying your application in production! 👀
+
+The other `config` directory inside our `src` folder is for configurations related to our application, .i.e, the ones related to runtime. This may contain our json files ( or any other files ) that might shape the behaviour or capabilities of our app. Although, this may or may not be required as per your needs but for me, I have had this folder in most of the projects.
+
+&lt;hr /&gt;
+
+## But wait, what about the `resources` and `assets` directories? Aren&apos;t assets also a part of the &apos;resources&apos; for our react application?
+
+&lt;br /&gt;
+
+![](./shrek.jpg)
+
+Well, the `assets` directory here is meant **_only_** for images and other media _, duhh,_
+
+whereas, `resources` is for data that might be required by our web application, for example, constants and other static data which basically doesn&apos;t have any or much logic associated to it. You can also add small methods to return the data, perhaps formatted to specific needs, and / or perform **_minor_** operations on them there which can be used by parts of our application, which by the way -- _trust me_ -- will make your code a lot cleaner and more organised.
+
+This directory may also contain data and other &apos;resources&apos; which can be occasionally fetched, stored and updated; and maybe processed a little before they are used in certain parts of our web application. Well, I guess you get the idea.
+
+&lt;hr /&gt;
+
+## And what about our pages and all the react components??
+
+So, here comes the interesting part. Atleast I think so. This is something that has been derived from a few other solutions on architecting react applications as well as other web applications along with some of my own practical experience. And by far, I&apos;m pretty satisfied with it! 🤓
+
+To start with, let&apos;s assume our web application contains a home page, a profile page for the users and just for the sake of not having just two pages in the example, a third page that we will call -- the other page. So the directory structure would look something like this :
+
+```js
+-- src
+----- components
+----- config
+----- pages
+--------- home
+----------- index.js
+----------- index.scss          // Mandatory sass file - I just wanted to make this look realistic!!
+--------- profile
+----------- index.js
+--------- other-page
+----------- components
+----------- index.js
+----- resources
+
+```
+
+Notice how all the pages have their own separate directory with an entry point? And how that &apos;other&apos; page has a component folder? Why do we need another component folder? Don&apos;t we already have a component folder in the root of `src` directory?
+
+Wait, just hold on for a second! I&apos;ll explain it real quick! ☝
+
+This is what I call the &quot;branching&quot; structure. Each page has their own directory, their own set of components which are not used anywhere else except in that specific page, their own styles rules and other stuff which are associated with only that page. If any component is shared by two pages, guess where they&apos;d go? Yes, you guessed it right -- the `components` directory in the root of our `src` directory!
+
+But.. you might wonder.. what is the point of doing that?
+
+Let&apos;s say, one day you and your teammates decide to get rid of the &apos;other&apos; page -- _maybe the name wasn&apos;t good enough?_ -- so what do you do? Spend an entire afternoon or a day on removing code, breaking and fixing the application? **NO**.
+
+You just go ahead and delete the directory and remove its reference from where it was attached to / used in the web application. _And voila, it&apos;s done!_ 💁🏻‍♂️
+
+Nothing breaks in your app just because a bunch of code was deleted! Everything is independent of each other&apos;s existence even if they were binded together at some point! A lot less to work with and worry about, isn&apos;t it? And yeah, this principle can be applied to almost any application / software and not just some react application.
+
+![](./welcome.jpg)
+
+Some of you might think -- Well no, our application / software is quite complex and stuff is just too interconnected with each other. They **_shared_** code, were **_bridged_** together, etc. But I guess you might understand now what to do with the &quot;shared code&quot; and &quot;bridges&quot; if you try to apply this principle to it! This is just a simple example to demonstrate and give you an idea of how parts of the product can be organised for convenience and maintainability.
+
+&lt;hr /&gt;
+
+## A little tip -- something that I learnt while developing progressive web applications with GatsbyJS
+
+You can also go ahead and add another directory to the `src` -- called `layouts` ( or maybe add it to the `components` directory, whichever feels more appropriate to you ) which contains a layout file which is global to the application, or even have multiple layouts ; each associated with certain parts of the application. For example, let&apos;s assume our application also has a fancy navbar and a decent footer which goes into all of our pages. Instead of having them shoved inside our `components` directory and then repeatedly used inside each page - we can have a layout file that contains the navbar and the footer and renders the `children` that are passed to it, like so :
+
+```jsx
+
+&lt;Layout&gt;
+ &lt;div&gt;
+   Yayy! This is my fancy home page!!
+ &lt;/div&gt;
+&lt;/Layout&gt;
+
+// And in the profile page :
+
+&lt;Layout&gt;
+ &lt;div&gt;
+   This is the page of the user whose data we&apos;re secretly trying to steal!
+   Please read our privacy policies (not so) carefully!!
+ &lt;/div&gt;
+&lt;/Layout&gt;
+
+```
+
+And in our Layout file, we can have something similar to this :
+
+```jsx
+const Layout = ({ children }) =&gt; (
+  &lt;&gt;
+    &lt;Navbar /&gt;
+    {children}
+    &lt;Footer /&gt;
+  &lt;/&gt;
+);
+
+export default Layout;
+```
+
+Better now, isn&apos;t it? Even this website, with its simplicity, has a layout component! 🤓
+
+&lt;hr /&gt;
+
+## But wait.. There&apos;s more to architecting react applications!!
+
+Yes, I haven&apos;t forgotten about reducers, the lengthy sagas, services, a ton of action creators and what not! But that&apos;s for the [second part of this article](/articles/architecting-react-applications-redux-store-services-and-sagas/) since I don&apos;t want it to become too long and exhausting to read. Also, this first part might serve as a good starting point for beginners or other fellow developers who are new to React development.
+
+&lt;hr /&gt;
+
+_Did you like this article? Or did I miss something? Is there something that you have that can be added to this article -- that can make it even better?_
+
+_Please leave a comment below or you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy hacking! Cheers! 🎉
+</content:encoded></item><item><title><![CDATA[Android Emulator for React Native in Mac, Linux and Windows]]></title><description><![CDATA[So let me ask you first — How many of you have installed Android Studio only to use the emulator for your native app? Oh, and don’t forget…]]></description><link>https://rishikc.com/articles/native-app-emulator-android-mac-linux-ios-install-command-line/</link><guid isPermaLink="false">https://rishikc.com/articles/native-app-emulator-android-mac-linux-ios-install-command-line/</guid><pubDate>Sat, 12 Jan 2019 22:12:03 GMT</pubDate><content:encoded>
+So let me ask you first —
+
+How many of you have installed Android Studio only to use the emulator for your native app? Oh, and don’t forget the way your system struggles when you try to run it!
+
+![This is pretty much how it is. Source: I used to work with react native applications in an office with centralized air conditioning](./image1.jpg)
+
+And no, I’m not just talking about any average system — even my Macbook Pro with 8GB of RAM makes a lot of noise!
+
+A lot of you might have also come across alternatives like Genymotion, Nox, BlueStacks and a lot others. Some are free, while a lot others with really nice features and performance are paid.
+
+So most of us stick to the free ones or end up downloading Android Studio for the really good and easy to use emulator it provides.
+
+But it gets worse when you already have Visual Studio Code , a few tabs on Google Chrome and your music player running!
+
+![I made this meme before I watched Peaky Blinders.](./image2.png)
+
+Also, some of us are just lazy ( and too comfortable with the command line ) that we don&apos;t bother installing some fancy GUI application when we can do it with a few commands. 🤓
+
+Okay enough with the memes, let’s quickly set up Android Studio’s emulator for our react native app in a better way this time — without actually installing Android Studio! ✊
+
+&lt;hr /&gt;
+
+## Install Java Development Kit 8.
+
+First you’ll need to install [JDK 8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Windows and linux users can directly visit the link and download it after accepting the license.
+For Mac users, I recommend installing via [Homebrew](https://brew.sh/) :
+
+```bash
+brew tap caskroom/versions
+brew cask install java8
+```
+
+Windows and Linux users should make sure that they have set-up path to their Java installation.
+
+&lt;hr /&gt;
+
+## Install Android SDK.
+
+Once we have installed and set-up Java in our system, we will need to install Android SDK so that we can get necessary tools in our systems including the android virtual device manager and emulator itself!
+
+Windows and linux users can directly [download the command line tools](https://developer.android.com/studio/#downloads) required for installing the android emulator.
+
+Mac users can install it by running:
+
+```bash
+brew cask install android-sdk
+```
+
+&lt;hr /&gt;
+
+**Note for Mac users:** If you run into an error like this while installing android SDK :
+
+```bash
+Exception in thread &quot;main&quot; java.lang.NoClassDefFoundError: javax/xml/bind/annotation/XmlSchema
+at com.android.repository.api.SchemaModule$SchemaModuleVersion.&lt;init&gt;(SchemaModule.java:156)
+at com.android.repository.api.SchemaModule.&lt;init&gt;(SchemaModule.java:75)
+at com.android.sdklib.repository.AndroidSdkHandler.&lt;clinit&gt;(AndroidSdkHandler.java:81)
+at com.android.sdklib.tool.SdkManagerCli.main (SdkManagerCli.java:117)
+```
+
+Then you simply need to run the below command and try installing android-sdk again :
+
+```bash
+touch ~/.android/repositories.cfg
+```
+
+&lt;hr /&gt;
+
+After installing, make sure you have added `android-sdk` to your system path.
+
+For Mac and Linux users, you need to add the following line to your `.bashrc` or `.zshrc` :
+
+```bash
+export ANDROID_HOME=/path/to/android-sdk
+```
+
+&gt; #### Important note for the next two steps:
+&gt;
+&gt; _Incase your system complains about not being able to find the command while trying to issue the next set of commands involving **sdkmanager** , **avdmanager** or **emulator** — you can navigate to the directory where it is present inside the android-sdk folder and run them as **./sdkmanager** , **./avdmanager** and **./emulator** respectively._
+&gt;
+&gt; _For those of you who are feeling lazy to find it yourself :_
+&gt;
+&gt; _**sdkmanager** and **avdmanager** will be located inside **android-sdk/tools/bin** whereas **emulator** can be found inside **android-sdk/tools**._
+&gt;
+&gt; Now that we know this, let’s continue towards a better development experience!
+
+## Install platform and build tools required for React Native.
+
+Now we can go ahead and set-up platform and build tools to help us in creating and running our virtual device in android emulator. We will use the `sdkmanager` that we just downloaded to our system as a part of `android-sdk`.
+
+To do this, open your terminal and run the following command :
+
+```bash
+sdkmanager &quot;platforms;android-23&quot; &quot;build-tools;23.0.1&quot; &quot;add-ons;addon-google_apis-google-23&quot;
+```
+
+Once we have downloaded the above packages, run the following command to list all the tools available :
+
+```bash
+sdkmanager --list
+```
+
+This will fetch the complete list of the available packages on remote that you can download to your system. You can download packages from the list by running :
+
+```bash
+sdkmanager &quot;sdk-path-for-package&quot;
+```
+
+_**Note:** sdk-path is the string in the leftmost column of the generated list. And it must be wrapped in quotes while running the above command. For example, let’s say we want to create a virtual device which requires **Google APIs Intel x86 Atom System Image** package, we can install the package by running:_
+
+```bash
+sdkmanager &quot;system-images;android-23;google_apis;x86&quot;
+```
+
+You can download the packages that you need from the list and if you look closely, you’ll find android emulator package there too! But don’t worry I won’t make you go through the long list in your terminal, here’s the command you need to run in order to download the android emulator package :
+
+```bash
+sdkmanager &quot;emulator&quot;
+```
+
+That’s it! We’ve downloaded the android emulator and we’re ready to set-up our Android virtual device!
+
+&lt;hr /&gt;
+
+## Create a new virtual device.
+
+Let’s create an android virtual device with the help of **_Google APIs Intel x86 Atom System Image_** we downloaded through the previous command, which was :
+
+```bash
+sdkmanager &quot;system-images;android-23;google_apis;x86&quot;
+```
+
+Now to create a virtual device, run the following command :
+
+```bash
+avdmanager create avd --force --name myTestDevice --abi google_apis/x86 --package &apos;system-images;android-23;google_apis;x86&apos; --device &quot;myTestDevice&quot;
+```
+
+This will create a virtual device named _myTestDevice_ using the _Intel x86 Atom system image_ we downloaded.
+
+To check if your device was created, you can run :
+
+```bash
+emulator -list-avds
+```
+
+This will list all the virtual devices present in your system.
+
+## Accessing the virtual device
+
+If you followed all the instructions properly, you can see your device listed as well and you must be able to start your virtual device by running :
+
+```bash
+emulator -avd myTestDevice
+```
+
+And now your android emulator will start with the device you just created! But this time in a better way just like you always deserved — without wasting your precious storage space! 🎉
+
+&lt;hr /&gt;
+
+_Did you like this article? Or did I miss something? Is there something that you have that can be added to this article -- that can make it even better?_
+
+_Please leave a comment below or you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy Hacking! Cheers!
+</content:encoded></item><item><title><![CDATA[Persist and Encrypt data in React Native applications]]></title><description><![CDATA[Users’ need for privacy and data security keeps increasing daily and it will always be in demand. So how do we store data on a mobile device…]]></description><link>https://rishikc.com/articles/encrypt-persisted-data-react-native-mobile-application/</link><guid isPermaLink="false">https://rishikc.com/articles/encrypt-persisted-data-react-native-mobile-application/</guid><pubDate>Fri, 21 Sep 2018 22:12:03 GMT</pubDate><content:encoded>
+Users&apos; need for privacy and data security keeps increasing daily and it will always be in demand. So how do we store data on a mobile device without worrying about security? In this article, we&apos;ll go through an effortless and quick way to:
+
+- Set up persistent storage for our app and store any user data locally.
+
+- Encrypt the data to make it secure so users feel less worried about their privacy.
+
+So, let&apos;s get started!
+
+&lt;hr /&gt;
+
+## Persisting the data
+
+First, we&apos;ll set up persistent storage for our app. For this, we&apos;ll use an excellent and easy-to-use library called redux-persist. Most of you must be familiar with redux. For those unfamiliar, it is a simple way to manage and share data in your React and React Native apps across various components and views. You can read more about it in my article on redux and how to use it in React and React Native apps.
+
+Open the terminal and type the following command on your project&apos;s root directory:
+
+```bash
+npm i redux-persist
+```
+
+This command will install redux-persist, which will help us to retain our data from previous sessions.
+
+&gt; We&apos;ll use redux-promise as our middleware for the examples in this article. You can use any middleware, like redux-saga or redux-thunk, based on your requirements!
+
+Now let&apos;s set up our store to make it persistent — so that the next time our app loads up, we&apos;ll have data saved from the previous session.
+On your main store.js, set up persistent storage like this:
+
+`gist:rishichawda/aee7bf47cc66d07b6c6b7fdc0a02b457#store.js`
+
+In the main App.js file, modify the render function like this:
+
+```js
+import { PersistGate } from &quot;redux-persist/integration/react&quot;;
+import { Provider } from &quot;react-redux&quot;;
+
+import store from &quot;./store&quot;;
+import MyRootComponent from &quot;./src&quot;;
+
+class App extends Component {
+  constructor(props) {
+    super(props);
+    // ...
+  }
+
+  render() {
+    return (
+      &lt;Provider store={store.store}&gt;
+        &lt;PersistGate persistor={store.persist}&gt;
+          &lt;MyRootComponent /&gt;
+        &lt;/PersistGate&gt;
+      &lt;/Provider&gt;
+    );
+  }
+}
+
+export default App;
+```
+
+That&apos;s it! We&apos;ve set up our redux state to be persistent! Easy.
+
+&lt;hr /&gt;
+
+## Encrypting the persisted data
+
+For this, we&apos;ll use redux-persist-transform-encrypt. Run the following command on your project&apos;s root directory:
+
+```bash
+npm i redux-persist-transform-encrypt
+```
+
+This will help us encrypt and decrypt user data across multiple sessions.
+
+&gt; **Note:** Since this was just an example of how to encrypt your data, we hard-coded our secret key into the source code, but you must never do that! Ideally, it would be injected during our build process.
+
+Now, open the store.js file again and update it to look like this:
+
+`gist:rishichawda/e0be2787d0dddab4b56fdb17f05d3d89#store.js`
+
+Awesome! We made the data in our store state persistent locally, along with encryption! 🎉 👏
+
+Congrats now we&apos;ve encrypted our locally persisted react native application data.
+
+&lt;br /&gt;
+
+Happy hacking! Cheers! 🎉
+</content:encoded></item><item><title><![CDATA[Shrink your React Native application size dramatically!]]></title><description><![CDATA[So you made a cool and awesome looking React Native app, and now you’re ready to build it and maybe publish it to the store — But worried…]]></description><link>https://rishikc.com/articles/shrink-react-native-application-build-size-android/</link><guid isPermaLink="false">https://rishikc.com/articles/shrink-react-native-application-build-size-android/</guid><pubDate>Thu, 20 Sep 2018 22:12:03 GMT</pubDate><content:encoded>
+So you made a cool and awesome looking [React Native](https://facebook.github.io/react-native/) app, and now you’re ready to build it and maybe publish it to the store —
+
+But worried about it if the users would want to install it given its build size? Or maybe you just want to keep it lightweight and not take too much memory unnecessarily when it can be packed into a smaller size?
+
+Or you’re just one of us who are paranoid about build sizes? Don’t worry, we got you covered! 😄 ✔️
+
+&lt;hr /&gt;
+
+In this article, we will cover the following two things:
+
+- Compress the react native application size - by compressing the java bytecode that is generated while building our app and also asking it to try and shrink all the resources that are bundled with the application.
+
+- Splitting our application bundle into multiple APKs to remove unnecessary code which is not required by the device which is going to run it - because a lot of code is bundled with the universal APK that is device-specific - meaning that we don&apos;t need a lot of code in the device we&apos;re going to install it in.
+
+&lt;hr /&gt;
+
+Let&apos;s get started! ✊
+
+First of all, you’ll need to eject your native app if you’re using [create-react-native-app](https://github.com/react-community/create-react-native-app) for your project ( You might have already done this if you’ve built your application before reading this article ). This is important since you don’t have access to configurations until you eject, as the build folder is where we have to make changes. If you haven’t, you can simply do this by :
+
+```bash
+npm run eject
+```
+
+&gt; **Note :** Ejecting a react native application is a permanent action! ( Unless you’re using a version control system to keep track of previous versions of your app — from where you can recover the ‘unejected’ version of your app later if you need ). [Learn more about ejecting.](https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md&quot;)
+
+Okay, so now we’re all set! Let’s get started and get that done fast. Don’t worry, it just takes a few minutes, and your app size will shrink dramatically!
+
+Now, navigate to the `android/app` folder from your project root directory where you can find your `build.gradle` file.
+
+![The `build.gradle` file is location inside `android/app` directory of the react native application.](./rrnas-1.png)
+
+Here, you’ll find your default build configurations already set up, find the line which looks like this :
+
+```groovy
+def enableProguardInReleaseBuilds = false
+def enableSeparateBuildPerCPUArchitecture = false
+```
+
+and change their value to `true` like this :
+
+```groovy
+def enableProguardInReleaseBuilds = true
+def enableSeparateBuildPerCPUArchitecture = true
+```
+
+So you might be wondering what it does. Well, if you scroll down a bit you’ll see `enableProguardInReleaseBuilds` and `enableSeparateBuildPerCPUArchitecture` written at a few more places like here:
+
+![The `build.gradle` file contains a lot of configurations including the ones we are using here for optimization](./rrnas-2.png)
+
+As you can see, these variables are being used to enable or disable two build configurations —
+
+- One for generating separate .apks for different device architectures,
+
+```groovy
+...
+splits {
+ abi {
+ reset()
+ enable enableSeparateBuildPerCPUArchitecture
+...
+```
+
+&gt; _Don&apos;t worry about having to handle different .apks for each architecture — Google takes care of distributing it to the users! And separating the builds according to architecture removes unnecessary code from your file which is not required on the device it is running._
+
+- Another one for compressing the Java bytecode generated while building, as in,
+
+```groovy
+...
+buildTypes {
+ release {
+ minifyEnabled enableProguardInReleaseBuilds
+...
+```
+
+Phew, that was pretty easy! But wait, we’re not done yet! There’s one little thing we need to do.
+
+Now let’s add this line right below the `minifyEnabled` configuration :
+
+```groovy
+...
+buildTypes {
+ release {
+ minifyEnabled enableProguardInReleaseBuilds
+ shrinkResources true; /* &lt;-- Add this line */
+...
+```
+
+And we’re done! Now build your app again and check the `output` directory. You’ll find two different APKs of your app, which is specified in the configuration by default, i.e., for `armebi` and `x86` architectures.
+
+Oh, and by the way, if you need a universal APK that supports all device architectures — just set `universalApk` to true, and it’ll generate a universal APK next time you run build!
+
+That’s all! Now you’ve set up your build configuration to shrink your code along with resources and create separate APK for different architectures — thus removing unnecessary code from the final build.
+
+Thanks for reading! You can check out more resources on [how to reduce the application build size](https://developer.android.com/studio/build/shrink-code).
+
+&lt;hr /&gt;
+
+_Did you like this article? Or did I miss something? Is there something that you have that can be added to this article -- that can make it even better?_
+
+_Please leave a comment below, or you can also contact me through my [social media profiles](/)._
+
+_Thank you for reading!_ 😄
+
+&lt;br /&gt;
+
+Happy Hacking! Cheers!
+</content:encoded></item></channel></rss>
